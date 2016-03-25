@@ -1,4 +1,4 @@
-# html_basics
+# HTML BASICS
 
  - Clone repository
  - Make copy from index html file somewhere in folder
