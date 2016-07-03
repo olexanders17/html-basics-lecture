@@ -1,4 +1,4 @@
-# html-basics-lectureAlso available on
+# html-basics-lectureAlso available on#
 
 https://olexanders17.github.io/html-basics-lecture/
 
