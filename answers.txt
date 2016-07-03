@@ -12,5 +12,5 @@
 <em> - uses for expressing information
 <i>- uses for  making  text italic
 
-6 <strong>, <em> - use for logical formatting of text
+6. <strong>, <em> - use for logical formatting of text
   <b>,<i> use for physical formatting of text
