@@ -1,0 +1,16 @@
+
+2. Quirks mode used for supporting HTML in old browsers in times before setting W3C standards
+
+3.
+<cite> - uses for displaying quote, can contain source URI
+<q>- uses for displaying inline quote
+4.
+<strong> - uses for accenting on important  information
+<b>- uses used  for design purposes
+
+5.
+<em> - uses for expressing information
+<i>- uses for  making  text italic
+
+6 <strong>, <em> - use for logical formatting of text
+  <b>,<i> use for physical formatting of text
