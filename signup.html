@@ -12,10 +12,21 @@
 </br>
 </br>
 
-<div style="width: 300px"><div class="div-row"><input type="text" placeholder="First name*"></div></br>
-<div class="div-row"><input type="text" placeholder="Last name*"></div></br>
-<div class="div-row"><input type="text" placeholder="Email*"></div></br>
-<div class="div-row"><input type="text" placeholder="Password*"></div></div>
+<form action="#" method="post">
+    <div style="width: 300px">
+        <div class="div-row"><input type="text" placeholder="First name*" required name="fname" minlength="2"></div>
+        </br>
+        <div class="div-row"><input type="text" placeholder="Last name*" required name="lname" minlength="2"></div>
+        </br>
+        <div class="div-row"><input type="email" placeholder="Email*" required name="email"></div>
+        </br>
+        <div class="div-row"><input type="password" placeholder="Password*" required name="pass"></div>
+        <div class="div-row"><input type="submit"  required name="submit" value="Submit"></div>
+
+    </div>
+
+
+</form>
 
 
 </body>

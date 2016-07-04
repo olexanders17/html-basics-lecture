@@ -9,10 +9,13 @@
 <body>
 
 <h4>Welcome Back!</h4>
-<div  style="width: 300px">
-<div class="div-row"> <input type="text" placeholder="Login"></div>
-<div class="div-row"><input type="password" placeholder="Password"></div>
-</div>
+<form action="#" method="post">
+    <div style="width: 300px">
+        <div class="div-row"><input type="text" placeholder="Login" required name="fname" minlength="2"></div>
+        <div class="div-row"><input type="password" placeholder="Password" required name="pass" minlength="5"></div>
+        <div class="div-row"><input type="submit" required name="submit" value="Submit"></div>
+    </div>
+</form>
 
 </body>
 </html>
